@@ -13,32 +13,32 @@ number + k or j -- To up and down where the number line
 ```
 
 ### NEOVIM KEYMAPS
-```shell
-j + k - To exit Insert Mode
-/ - Search Text Highlights
-leader (space) + n + h - To remove the Search Text Highlights
+```lua
+j + k -- To exit Insert Mode
+/ -- Search Text Highlights
+leader (space) + n + h -- To remove the Search Text Highlights
 ```
 
 #### INCREMENT/DECREMENT NUMBER
-```shell
-leader (space) + + - Increment Number
-leader (space) + - Decrement Number
+```lua
+leader (space) + + -- Increment Number
+leader (space) + -- Decrement Number
 ```
 
 #### WINDOW MANAGEMENT
-```shell
-leader (space) + s + v - Split Window Vertically
-leader (space) + s + h - Split Window Horizontally
-leader (space) + s + e - Make Splits Equal Size
-leader (space) + s + x - Close Current Split
-leader (space) + t + o - Open New Tab
-leader (space) + t + x - Close Current Tab
-leader (space) + t + n - Go to Next Tab
-leader (space) + t + p - Go to Previous Tab
-leader (space) + t + f - Open Current Buffer in New Tab
+```lua
+leader (space) + s + v -- Split Window Vertically
+leader (space) + s + h -- Split Window Horizontally
+leader (space) + s + e -- Make Splits Equal Size
+leader (space) + s + x -- Close Current Split
+leader (space) + t + o -- Open New Tab
+leader (space) + t + x -- Close Current Tab
+leader (space) + t + n -- Go to Next Tab
+leader (space) + t + p -- Go to Previous Tab
+leader (space) + t + f -- Open Current Buffer in New Tab
 ```
 
 ### VIM TMUX NAVIGATOR
-```shell
-control + hjkl - To move on Split Window
+```lua
+control + hjkl -- To move on Split Window
 ```
