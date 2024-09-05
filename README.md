@@ -1,15 +1,15 @@
 # NEOVIM
 
 ### NEOVIM COMMANDS
-```shell
-:source % - Restart Neovim
+```lua
+:source % -- Restart Neovim
 
-vim . - Open Neovim File Explorer
-:Explore - Open Neovim File Explorer inside of Neovim
-shift + 5 - Create file inside current folder of Neovim File Explorer
-:e folder/filename - Create file anywhere inside of Neovim File Explorer
+vim . -- Open Neovim File Explorer
+:Explore -- Open Neovim File Explorer inside of Neovim
+shift + 5 -- Create file inside current folder of Neovim File Explorer
+:e folder/filename -- Create file anywhere inside of Neovim File Explorer
 
-number + k or j - To up and down where the number line
+number + k or j -- To up and down where the number line
 ```
 
 ### NEOVIM KEYMAPS
