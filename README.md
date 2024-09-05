@@ -1,7 +1,7 @@
 # NEOVIM
 
 ### NEOVIM COMMANDS
-```
+```shell
 :source % - Restart Neovim
 
 vim . - Open Neovim File Explorer
@@ -13,20 +13,20 @@ number + k or j - To up and down where the number line
 ```
 
 ### NEOVIM KEYMAPS
-```
+```shell
 j + k - To exit Insert Mode
 / - Search Text Highlights
 leader (space) + n + h - To remove the Search Text Highlights
 ```
 
 #### INCREMENT/DECREMENT NUMBER
-```
+```shell
 leader (space) + + - Increment Number
 leader (space) + - Decrement Number
 ```
 
 #### WINDOW MANAGEMENT
-```
+```shell
 leader (space) + s + v - Split Window Vertically
 leader (space) + s + h - Split Window Horizontally
 leader (space) + s + e - Make Splits Equal Size
@@ -39,6 +39,6 @@ leader (space) + t + f - Open Current Buffer in New Tab
 ```
 
 ### VIM TMUX NAVIGATOR
-```
+```shell
 control + hjkl - To move on Split Window
 ```
